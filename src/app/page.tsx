@@ -42,6 +42,10 @@ const instruments = [
       { name: "Traditional", notes: ["A4", "D4", "F#4", "B4"] },
     ],
   },
+  {
+    name: "Violin",
+    tunings: [{ name: "Standard", notes: ["G3", "D4", "A4", "E5"] }],
+  },
 ];
 
 const attack = 0.01;
