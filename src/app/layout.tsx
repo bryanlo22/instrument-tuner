@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Instrument Tuner",
-  description: "Tune your guitar, bass, or ukulele",
+  description: "Tune your guitar, bass, ukulele, or violin",
 };
 
 export default function RootLayout({
